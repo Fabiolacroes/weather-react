@@ -16,5 +16,3 @@ root.render(
 );
 
 reportWebVitals();
-
-<a href="https://app.netlify.com/sites/nimble-nasturtium-d98fc8">Netlify</a>;
